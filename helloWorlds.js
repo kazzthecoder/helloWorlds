@@ -4,3 +4,5 @@ console.log(helloWorlds)
 
 let newcode = testing
 console.log(newcode)
+
+const numberprints = 5
